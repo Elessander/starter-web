@@ -1,7 +1,7 @@
 # Starter Web Projecy
 
 This is a simple website project for showing hot to use Git and Github toguether.
-Adding a line for rebasing example, then more changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ##Copyright
 
-2014 Git.training. All rights reserved.
+2014 Git.training. All rights reserved.s
